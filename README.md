@@ -27,6 +27,6 @@ To set up this project locally, follow these steps:
 2. Navigate to the project directory:
    ```sh
    cd Weather_Web
-3.Open the project in your preferred code editor (e.g., VS Code).
+3. Open the project in your preferred code editor (e.g., VS Code).
 
 4. Open the script.js file and replace YOUR_API_KEY with your actual OpenWeatherMap API key:
